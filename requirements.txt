@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-dotenv
+qdrant-client
+llama-index
+llama-index-llms-gemini
+llama-index-embeddings-gemini
+llama-index-vector-stores-qdrant
+# For reading PDF files
+llama-index-readers-file
+pypdf
+python-multipart
